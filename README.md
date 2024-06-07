@@ -18,13 +18,9 @@ A React project implementing a user-friendly multi-step form.
     Bash
 
     ```
-    git clone https://github.com/your-username/multi-step-form-react
+    https://github.com/amithah/multistepFormReact.git
 
     ```
-
-    Use code [with caution.](/faq#coding)
-
-    content_copy
 
 2.  Install dependencies:
 
@@ -33,13 +29,8 @@ A React project implementing a user-friendly multi-step form.
     ```
     cd multi-step-form-react
     npm install
-    ``` (or `yarn install`)
+    ``` 
 
-    ```
-
-    Use code [with caution.](/faq#coding)
-
-    content_copy
 
 3.  Start the development server:
 
@@ -47,25 +38,19 @@ A React project implementing a user-friendly multi-step form.
 
     ```
     npm start
-    ``` (or `yarn start`)
-
-    ```
-
-    Use code [with caution.](/faq#coding)
-
-    content_copy
+    ``` 
 
 **Usage**
 
 -   Users navigate between steps using provided buttons (e.g., "Next," "Previous").
 -   Each step presents relevant form fields for data collection.
 -   Validation ensures data integrity before progressing to the next step.
--   Upon successful completion, the form can be submitted to [explain where the data goes, e.g., a server-side endpoint].
+-   Upon successful completion, the form can be submitted.
 
-**Contributing**
+<!-- **Contributing**
 
 We welcome contributions to improve this project! Please refer to the <CONTRIBUTING.md> file (if it exists) for details.
 
 **License**
 
-This project is licensed under the [License Name] license. See the <LICENSE> file for the full license text.
+This project is licensed under the [License Name] license. See the <LICENSE> file for the full license text. -->
